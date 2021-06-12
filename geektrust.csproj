@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+	<AssemblyName>geektrust</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="The Ledger Co\Input\" />
+  </ItemGroup>
+
+</Project>
