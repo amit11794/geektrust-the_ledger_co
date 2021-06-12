@@ -12,7 +12,7 @@ namespace geektrust
             //string input = File.ReadAllText(args[0]);
 
             string path = AppDomain.CurrentDomain.BaseDirectory;
-            string file = Path.Combine(path, "Input1.txt"); // copy the file from TheLedgerCo\Input folder to bin
+            string file = Path.Combine(path, "Input1.txt"); // copy the file from "The Ledger Co\Input" folder to bin
             string input = File.ReadAllText(file);
 
             string[] lines = input.Split(new[] { Environment.NewLine }, StringSplitOptions.None);
