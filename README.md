@@ -1,3 +1,5 @@
+## The Problem
+  
 You work at a startup called The Ledger Co., a marketplace for banks to lend money to borrowers and receive payments for the loans.
 
 The interest for the loan is calculated by I = P*N*R where P is the principal amount, N is the number of years and R is the rate of interest. The total amount to repay will be A = P + I
